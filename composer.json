@@ -1,0 +1,6 @@
+{
+    "name": "asuwebplatforms/webspark_site_builder_role",
+    "description": "A Drupal recipe for creating a Site Builder role in Webspark",
+    "type": "drupal-recipe",
+    "license": ["GPL-2.0-or-later"]
+}
