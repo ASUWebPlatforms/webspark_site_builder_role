@@ -1,6 +1,6 @@
 # Webspark Site Builder Role Recipe
 
-##DEPRECATED
+## DEPRECATED
 Note: A change to how the modules are coded has made this recipe obsolete.
 
 ## Introduction
